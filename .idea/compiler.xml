@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloudhystrix" />
+        <module name="configclient" />
+        <module name="configclient2" />
+        <module name="configserver" />
+        <module name="eurekaclient1" />
+        <module name="eurekaclient2" />
+        <module name="eurekeaserver1" />
+        <module name="eurekeaserver2" />
+        <module name="hystrixdashborad" />
+        <module name="hystrixturbine" />
+        <module name="ribbonconsumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="cloudfein" target="1.6" />
+      <module name="cloudhystrix" target="1.8" />
+      <module name="configclient" target="1.8" />
+      <module name="configclient2" target="1.8" />
+      <module name="configserver" target="1.8" />
+      <module name="eurekaclient1" target="1.6" />
+      <module name="eurekaclient2" target="1.6" />
+      <module name="eurekeaserver1" target="1.8" />
+      <module name="eurekeaserver2" target="1.8" />
+      <module name="hystrixdashborad" target="1.6" />
+      <module name="hystrixturbine" target="1.8" />
+      <module name="ribbonconsumer" target="1.8" />
+      <module name="SpringCloud" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

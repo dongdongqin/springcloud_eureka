@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudfein" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudhystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configclient2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaclient1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaclient2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekeaserver1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekeaserver2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrixdashborad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrixturbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbonconsumer" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: configserver
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/dongdongqin/dongdong/
+          search-paths: config-repo
+          username: qmspeaking@163.com
+          password: qmspeaking88=
+
+server:
+  port: 8888
+management:
+  context_path: /admin

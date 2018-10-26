@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud.iml" filepath="$PROJECT_DIR$/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudfein/cloudfein.iml" filepath="$PROJECT_DIR$/cloudfein/cloudfein.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudhystrix/cloudhystrix.iml" filepath="$PROJECT_DIR$/cloudhystrix/cloudhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient2/configclient2.iml" filepath="$PROJECT_DIR$/configclient2/configclient2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient1/eurekaclient1.iml" filepath="$PROJECT_DIR$/eurekaclient1/eurekaclient1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient2/eurekaclient2.iml" filepath="$PROJECT_DIR$/eurekaclient2/eurekaclient2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekeaserver1/eurekeaserver1.iml" filepath="$PROJECT_DIR$/eurekeaserver1/eurekeaserver1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekeaserver2/eurekeaserver2.iml" filepath="$PROJECT_DIR$/eurekeaserver2/eurekeaserver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrixdashborad/hystrixdashborad.iml" filepath="$PROJECT_DIR$/hystrixdashborad/hystrixdashborad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrixturbine/hystrixturbine.iml" filepath="$PROJECT_DIR$/hystrixturbine/hystrixturbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" filepath="$PROJECT_DIR$/ribbonconsumer/ribbonconsumer.iml" />
+    </modules>
+  </component>
+</project>
